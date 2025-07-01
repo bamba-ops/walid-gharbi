@@ -1,4 +1,3 @@
-````markdown
 # Portfolio – Walid Gharbi
 
 Bienvenue sur mon portfolio de développeur web !  
@@ -23,7 +22,6 @@ Le site présente :
 ```sh
 npm install
 npm run dev
-````
 
 ## Build production
 
@@ -43,5 +41,3 @@ Ce portfolio est open source. Tu peux t’en inspirer, le cloner ou me contacter
 
 Walid Gharbi
 [LinkedIn](#) | [GitHub](#) | Montréal
-
-```
