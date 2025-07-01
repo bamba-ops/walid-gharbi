@@ -49,7 +49,7 @@
         </a>
         <!-- LinkedIn -->
         <a
-          href="https://www.linkedin.com/in/ton-linkedin"
+          href="https://www.linkedin.com/in/walid-gharbi-3178651ba"
           target="_blank"
           class="group flex flex-col items-center text-neutral-700 hover:text-red-600 transition"
         >
@@ -66,7 +66,7 @@
         </a>
         <!-- TikTok -->
         <a
-          href="https://www.tiktok.com/@ton-tiktok"
+          href="https://www.tiktok.com/@bambalerequin"
           target="_blank"
           class="group flex flex-col items-center text-neutral-700 hover:text-red-600 transition"
         >
