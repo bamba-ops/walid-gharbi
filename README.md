@@ -1,29 +1,47 @@
-# walidgharbi
+````markdown
+# Portfolio – Walid Gharbi
 
-This template should help get you started developing with Vue 3 in Vite.
+Bienvenue sur mon portfolio de développeur web !  
+Ce projet présente mes réalisations, mes compétences et mon parcours en tant que développeur basé à Montréal.
 
-## Recommended IDE Setup
+## Aperçu
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Réalisé avec **Vue 3** (Composition API) et **Vite**
+- Responsive, rapide, et moderne
+- Démonstration de mes projets personnels et scolaires
 
-## Customize configuration
+## Découvrir mon portfolio
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Le site présente :
+- Une page d’accueil et une courte présentation de moi
+- Une section détaillée sur mes projets (avec liens GitHub et démos)
+- Un formulaire ou lien de contact
+- Mon parcours : diplômé en techniques informatiques (Collège Rosemont, Montréal)
 
-## Project Setup
+## Installation & Lancement
 
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
+````
 
-### Compile and Minify for Production
+## Build production
 
 ```sh
 npm run build
+```
+
+## Outils recommandés
+
+* [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+## Licence
+
+Ce portfolio est open source. Tu peux t’en inspirer, le cloner ou me contacter pour discuter de collaborations !
+
+---
+
+Walid Gharbi
+[LinkedIn](#) | [GitHub](#) | Montréal
+
 ```
