@@ -40,4 +40,3 @@ Ce portfolio est open source. Tu peux t’en inspirer, le cloner ou me contacter
 ---
 
 Walid Gharbi
-[LinkedIn](#) | [GitHub](#) | Montréal
