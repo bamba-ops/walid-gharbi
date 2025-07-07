@@ -5,7 +5,7 @@
     <div class="w-full max-w-lg flex flex-col items-center gap-8 px-4">
       <!-- Bouton CV -->
       <a
-        href="/cv-walid-gharbi.pdf"
+        href="/CV_Walid_Gharbi_FR.pdf"
         download
         class="inline-flex items-center gap-2 bg-black text-white px-7 py-3 rounded-full font-semibold text-base shadow-lg hover:bg-neutral-900 active:scale-95 transition-all duration-150 animate-cv"
       >

@@ -46,19 +46,31 @@
         </a>
         <div class="w-full flex flex-col gap-1 mt-3 px-2">
           <div class="flex items-center gap-2">
-            <span class="text-base text-neutral-900 font-semibold truncate">{{
-              project.title
-            }}</span>
+            <span class="text-base text-neutral-900 font-semibold truncate">
+              {{ project.title }}
+            </span>
+          </div>
+          <!-- Liens du site et du code, bien placés en dessous du titre -->
+          <div class="flex flex-wrap gap-2 items-center mt-1 mb-1">
+            <a
+              v-if="project.url"
+              :href="project.url"
+              target="_blank"
+              class="flex items-center gap-1 text-xs font-bold bg-neutral-100 border border-neutral-200 rounded-full px-3 py-1 hover:bg-neutral-200 transition"
+            >
+              <span class="truncate max-w-[140px] sm:max-w-[180px]">{{
+                project.url
+              }}</span>
+            </a>
             <a
               v-if="project.github"
               :href="project.github"
               target="_blank"
-              class="ml-2 hover:underline text-neutral-500 flex items-center gap-1 text-xs font-bold"
+              class="flex items-center gap-1 text-xs font-bold bg-neutral-100 border border-neutral-200 rounded-full px-3 py-1 hover:bg-neutral-200 transition"
             >
               <span class="material-symbols-outlined text-base align-middle"
                 >code</span
               >
-              Code
             </a>
           </div>
           <div class="text-neutral-500 text-xs mb-1">
@@ -84,6 +96,7 @@ const projects = [
     stack: "Vue.js 3, Node.js, Supabase, PostgreSQL, Python",
     github: "https://github.com/bamba-ops/spy-grocery",
     demo: "",
+    url: "https://spygrocery.com",
   },
   {
     title: "Booklique",
@@ -94,8 +107,8 @@ const projects = [
     stack: "Kotlin Android, Java Spring Boot, MySQL",
     github: "https://github.com/bamba-ops/booklique",
     demo: "",
+    url: "", // Pas de site web
   },
-
   {
     title: "Spy Live",
     img: "https://bywesphmqjoadfyrxbyu.supabase.co/storage/v1/object/public/test/spylive_logo.png",
@@ -105,6 +118,7 @@ const projects = [
     stack: "Vue.js 3, Node.js, Supabase",
     github: "https://github.com/bamba-ops/spy-live",
     demo: "",
+    url: "https://spylive.shop",
   },
 ];
 </script>
