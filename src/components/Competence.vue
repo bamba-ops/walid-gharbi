@@ -84,6 +84,21 @@
             <li
               class="bg-neutral-100 px-3 py-1 rounded-full text-neutral-800 text-sm shadow-sm"
             >
+              React.js
+            </li>
+            <li
+              class="bg-neutral-100 px-3 py-1 rounded-full text-neutral-800 text-sm shadow-sm"
+            >
+              Next.js
+            </li>
+            <li
+              class="bg-neutral-100 px-3 py-1 rounded-full text-neutral-800 text-sm shadow-sm"
+            >
+              Angular
+            </li>
+            <li
+              class="bg-neutral-100 px-3 py-1 rounded-full text-neutral-800 text-sm shadow-sm"
+            >
               Node.js
             </li>
             <li
@@ -105,6 +120,16 @@
               class="bg-neutral-100 px-3 py-1 rounded-full text-neutral-800 text-sm shadow-sm"
             >
               Java API
+            </li>
+            <li
+              class="bg-neutral-100 px-3 py-1 rounded-full text-neutral-800 text-sm shadow-sm"
+            >
+              Tailwind CSS
+            </li>
+            <li
+              class="bg-neutral-100 px-3 py-1 rounded-full text-neutral-800 text-sm shadow-sm"
+            >
+              TypeScript
             </li>
           </ul>
         </div>
