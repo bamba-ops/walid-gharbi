@@ -120,5 +120,16 @@ const projects = [
     demo: "",
     url: "https://spylive.shop",
   },
+  {
+  title: "Speed Lead",
+  img: "https://bywesphmqjoadfyrxbyu.supabase.co/storage/v1/object/public/test//landing.png", // Mets ici l'URL ou le chemin de l’image illustrative de ton projet
+  description: "Assistant SMS IA instantané pour les courtiers immobilier : répond automatiquement aux prospects.",
+  role: "Développeur full-stack",
+  stack: "Next.js, Node.js, Vercel, OpenAI API",
+  github: "https://github.com/bamba-ops/speed-lead",
+  demo: "https://speed-lead.vercel.app/",
+  url: "https://speed-lead.vercel.app/",
+},
+
 ];
 </script>
