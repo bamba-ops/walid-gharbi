@@ -73,7 +73,7 @@
         <div
           class="flex flex-col sm:flex-row items-center gap-1 text-neutral-500 text-sm info-fade"
         >
-          <span>Développeur web & app</span>
+          <span>Développeur d'application web & mobile</span>
           <span class="hidden sm:inline">•</span>
           <span>Montréal</span>
         </div>
@@ -94,8 +94,8 @@
           Bonjour, je m’appelle
           <span class="font-semibold text-neutral-900">Walid Gharbi</span
           >.<br />
-          Développeur web basé à Montréal, diplômé en technique informatique du
-          Collège Rosemont.<br />
+          Développeur d'application web et mobile basé à Montréal, diplômé en
+          technique informatique du Collège Rosemont.<br />
           J’aime créer des applications modernes, efficaces et centrées sur
           l’utilisateur.<br />
           Polyvalent (Vue.js, Node.js, Kotlin, etc.), rigoureux, curieux et à
